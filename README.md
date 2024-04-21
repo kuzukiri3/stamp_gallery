@@ -1,0 +1,2 @@
+# stamp_gallery
+mattermostやslackで使えるスタンプを整理する（アプリ作成イベントの仮案）
